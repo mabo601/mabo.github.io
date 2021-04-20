@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mabo" Account"
+title                    : "mabo Account"
 title_separator          : "-"
 name                     : &name "bo ma"
 description              : &description "personal description"
